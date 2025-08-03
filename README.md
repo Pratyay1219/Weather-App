@@ -4,7 +4,7 @@ A simple and responsive React-based weather app that fetches real-time weather d
 
 ## 🔗 Live Demo
 
-[Live Weather App](#) <!-- Replace '#' with your deployed URL (e.g., Vercel, Netlify) -->
+[Live Weather App](https://pd-weather.netlify.app/) 
 
 ---
 
